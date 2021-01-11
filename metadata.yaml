@@ -1,0 +1,20 @@
+_repo: Railway-Reform_64220
+_version: 0.0.1
+creator:
+  author:
+    agent_name: publics, Bureau du Journal des travaux
+    gutenberg_agent_id: '52804'
+    url: http://www.gutenberg.org/2009/agents/52804
+description: ''
+gutenberg_issued: '2021-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64220'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Railway Reform
+url: http://www.gutenberg.org/ebooks/64220
